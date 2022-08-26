@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text sucks
+[x] Make your text suck a little less *whee i'm using some effect*
 Use the left arrow to go back!
